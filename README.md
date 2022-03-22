@@ -1,2 +1,2 @@
 # ProyectoCinematicaRobots
-Provecto Integrador de La materia Cinemática De Robots 
+Proyecto Integrador de La materia Cinemática De Robots 
